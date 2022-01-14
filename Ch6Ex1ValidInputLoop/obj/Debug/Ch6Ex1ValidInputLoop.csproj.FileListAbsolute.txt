@@ -1,0 +1,6 @@
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch6Ex1ValidInputLoop\bin\Debug\Ch6Ex1ValidInputLoop.exe.config
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch6Ex1ValidInputLoop\bin\Debug\Ch6Ex1ValidInputLoop.exe
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch6Ex1ValidInputLoop\bin\Debug\Ch6Ex1ValidInputLoop.pdb
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch6Ex1ValidInputLoop\obj\Debug\Ch6Ex1ValidInputLoop.csprojAssemblyReference.cache
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch6Ex1ValidInputLoop\obj\Debug\Ch6Ex1ValidInputLoop.exe
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch6Ex1ValidInputLoop\obj\Debug\Ch6Ex1ValidInputLoop.pdb

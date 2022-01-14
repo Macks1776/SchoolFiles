@@ -1,0 +1,12 @@
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\bin\Debug\Project2Converter.exe.config
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\bin\Debug\Project2Converter.exe
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\bin\Debug\Project2Converter.pdb
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\obj\Debug\Project2Converter.csprojAssemblyReference.cache
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\obj\Debug\Project2Converter.exe
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\obj\Debug\Project2Converter.pdb
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\bin\Debug\Project2Converter.exe.config
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\bin\Debug\Project2Converter.exe
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\bin\Debug\Project2Converter.pdb
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\obj\Debug\Project2Converter.csprojAssemblyReference.cache
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\obj\Debug\Project2Converter.exe
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project2Converter\obj\Debug\Project2Converter.pdb

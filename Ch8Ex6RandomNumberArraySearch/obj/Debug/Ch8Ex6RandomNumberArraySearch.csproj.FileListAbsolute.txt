@@ -1,0 +1,6 @@
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch8Ex6RandomNumberArraySearch\bin\Debug\Ch8Ex6RandomNumberArraySearch.exe.config
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch8Ex6RandomNumberArraySearch\bin\Debug\Ch8Ex6RandomNumberArraySearch.exe
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch8Ex6RandomNumberArraySearch\bin\Debug\Ch8Ex6RandomNumberArraySearch.pdb
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch8Ex6RandomNumberArraySearch\obj\Debug\Ch8Ex6RandomNumberArraySearch.csprojAssemblyReference.cache
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch8Ex6RandomNumberArraySearch\obj\Debug\Ch8Ex6RandomNumberArraySearch.exe
+E:\School- Spring 2020\CIST2341 - C#1\Projects\Ch8Ex6RandomNumberArraySearch\obj\Debug\Ch8Ex6RandomNumberArraySearch.pdb

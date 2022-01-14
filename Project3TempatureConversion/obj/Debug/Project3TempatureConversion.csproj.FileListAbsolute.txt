@@ -1,0 +1,13 @@
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\bin\Debug\Project3TempatureConversion.exe.config
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\bin\Debug\Project3TempatureConversion.exe
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\bin\Debug\Project3TempatureConversion.pdb
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.csprojAssemblyReference.cache
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.exe
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.pdb
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\bin\Debug\Project3TempatureConversion.exe.config
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\bin\Debug\Project3TempatureConversion.exe
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\bin\Debug\Project3TempatureConversion.pdb
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.csprojAssemblyReference.cache
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.csproj.CoreCompileInputs.cache
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.exe
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project3TempatureConversion\obj\Debug\Project3TempatureConversion.pdb

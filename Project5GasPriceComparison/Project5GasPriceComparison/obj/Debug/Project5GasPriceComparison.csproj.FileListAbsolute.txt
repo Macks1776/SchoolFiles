@@ -1,0 +1,13 @@
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\bin\Debug\Project5GasPriceComparison.exe.config
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\bin\Debug\Project5GasPriceComparison.exe
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\bin\Debug\Project5GasPriceComparison.pdb
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.csprojAssemblyReference.cache
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.csproj.CoreCompileInputs.cache
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.exe
+F:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.pdb
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\bin\Debug\Project5GasPriceComparison.exe.config
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\bin\Debug\Project5GasPriceComparison.exe
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\bin\Debug\Project5GasPriceComparison.pdb
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.csprojAssemblyReference.cache
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.exe
+D:\School- Spring 2020\CIST2341 - C#1\Projects\Project5GasPriceComparison\Project5GasPriceComparison\obj\Debug\Project5GasPriceComparison.pdb
